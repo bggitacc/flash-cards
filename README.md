@@ -20,6 +20,7 @@ example :<br />
 <br />
 yourVariableName.fullText  = property for full text<br />
 yourVariableName.cloze  = property for cloze phrase<br />
+yourVariableName.partial  = property for partial text<br />
 yourVariableName.match  = property for match - if found set to true if not found set to false<br />
 <br />
 constructors are scope safe.
